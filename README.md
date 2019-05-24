@@ -24,7 +24,7 @@
 
 #### 1、关于微星B360 GAMING RPO CARBON的BIOS
 
-请在开始本教程前，在[微星官网](https://cn.msi.com/Motherboard/support/B360M-MORTAR)下载或者本教程附件中微星B360M迫击炮**2018年5月24号**（7B23v12.zip）或**2018年8月2号**（7B23v13.zip）的BIOS，刷入BIOS
+请在开始本教程前，在[微星官网](https://cn.msi.com/Motherboard/support/B360-GAMING-PRO-CARBON)下载或者本教程附件中微星B360M迫击炮**2018年5月24号**（7B16v23）或**2018年8月2号**（7B16v24.zip）的BIOS，刷入BIOS
 
 刷入方法：将BIOS解压到U盘(FAT32格式)，插入USB2.0端口，在BIOS界面使用M-FLASH刷入
 
@@ -67,6 +67,8 @@ EFI支持：**10.14-10.14.5**  clover4928
 ---AMD显卡的使用**EFI-FOR-AFTER-INSTALL-AMD.ZIP**文件包中的**EFI文件**替换硬盘的**EFI分区**中的文件
 
 ---Intel核显的使用**EFI-FOR-AFTER-INSTALL-Intel.ZIP**文件包中的**EFI文件**替换硬盘的**EFI分区**中的文件
+
+**DP+HDMI可以使用**
 
 ---Nvdia显卡的使用**EFI-FOR-AFTER-INSTALL-Nvdia.ZIP**文件包中的**EFI文件**替换硬盘的**EFI分区**中的文件
 
